@@ -1,2 +1,2 @@
-# omagle-but-better
-omagle-but-better by harkirat singh , in this i code along with the video
+# omegle-but-better
+Omegle-but-better by harkirat Singh , in this I code along with the video
